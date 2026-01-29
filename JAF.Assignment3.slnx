@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="JAF.Assignment3/JAF.Assignment3.vcxproj" />
+  <Project Path="JAF.Assignment3/JAF.Assignment3.vcxproj" Id="7f60abf8-b93d-4957-923f-6f800d6fa900" />
 </Solution>
